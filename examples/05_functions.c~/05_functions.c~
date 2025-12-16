@@ -1,0 +1,42 @@
+func add(int a, int b) {
+    return a + b;
+}
+
+func subtract(int a, int b) {
+    return a - b;
+}
+
+func multiply(int a, int b) {
+    return a * b;
+}
+
+func divide(int a, int b) {
+    return a / b;
+}
+
+func main() {
+    int x = 15;
+    int y = 3;
+    
+    print("Calculator:");
+    print("x = ");
+    print(x);
+    print("y = ");
+    print(y);
+    
+    int sum = add(x, y);
+    print("x + y = ");
+    print(sum);
+    
+    int diff = subtract(x, y);
+    print("x - y = ");
+    print(diff);
+    
+    int prod = multiply(x, y);
+    print("x * y = ");
+    print(prod);
+    
+    int quot = divide(x, y);
+    print("x / y = ");
+    print(quot);
+}

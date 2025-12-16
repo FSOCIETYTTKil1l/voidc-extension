@@ -1,0 +1,20 @@
+func factorial(int n) {
+    if (n <= 1) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}
+
+func main() {
+    print("Factorials:");
+    
+    int i = 1;
+    while (i <= 10) {
+        int fact = factorial(i);
+        print("Factorial of ");
+        print(i);
+        print(" = ");
+        print(fact);
+        i = i + 1;
+    }
+}

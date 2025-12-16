@@ -1,0 +1,16 @@
+func main() {
+    int value = 42;
+    
+    print("Value: ");
+    print(value);
+    
+    ptr p = &value;
+    
+    print("Pointer dereferenced: ");
+    print(*p);
+    
+    *p = 100;
+    
+    print("New value: ");
+    print(value);
+}
