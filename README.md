@@ -233,12 +233,13 @@ Special thanks to all contributors
 
 GitHub: [github.com/yourusername/voidc](https://github.com/FSOCIETYTTKil1l)
 Discord: [Join our community](https://discord.gg/mhTyRphd)
-Email: voidc@example.com
+Email: VoiidC@proton.me
 Discord: @kil1l
 
 
 Made with ❤️ by the VoidC~ Team
 ⭐ Star us on GitHub if you like VoidC~!
+
 
 
 
