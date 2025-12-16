@@ -114,6 +114,7 @@ Comparison: ==, !=, <, >, <=, >=
 Logical: &&, ||, !
 Pointers: & (address-of), * (dereference)
 
+
 🎯 Examples
 1. Calculator
 cfunc add(int a, int b) { return a + b; }
@@ -195,6 +196,7 @@ Contributions are welcome! Here's how you can help:
 
 See CONTRIBUTING.md for guidelines.
 
+
 🗺️ Roadmap
 Version 1.0 (Current)
 
@@ -222,11 +224,13 @@ Version 2.0 (Future)
 📜 License
 VoidC~ is released under the MIT License. See LICENSE for details.
 
+
 🙏 Acknowledgments
 
 Inspired by C, C++, and modern programming languages
 Built with passion by the VoidC~ community
 Special thanks to all contributors
+
 
 
 📞 Contact & Community
@@ -239,6 +243,7 @@ Discord: @kil1l
 
 Made with ❤️ by the VoidC~ Team
 ⭐ Star us on GitHub if you like VoidC~!
+
 
 
 
