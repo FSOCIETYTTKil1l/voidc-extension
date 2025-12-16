@@ -245,7 +245,7 @@ Made with ❤️ by the VoidC~ Team
 ⭐ Star us on GitHub if you like VoidC~!
 
 
-
+<img width="475" height="525" alt="no_bg_c~" src="https://github.com/user-attachments/assets/89b17567-803a-48cc-873d-5add5ee91a45" />
 
 
 
