@@ -30,7 +30,7 @@ Git (optional)
 
 Quick Install
 bash# Clone the repository
-git clone (https://github.com/FSOCIETYTTKil1l/voidc-extension.git)
+git clone https://github.com/FSOCIETYTTKil1l/voidc-extension.git
 cd voidc
 
 # Add to PATH (Windows)
@@ -239,6 +239,7 @@ Discord: @kil1l
 
 Made with ❤️ by the VoidC~ Team
 ⭐ Star us on GitHub if you like VoidC~!
+
 
 
 
