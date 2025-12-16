@@ -235,7 +235,7 @@ Special thanks to all contributors
 
 📞 Contact & Community
 
-GitHub: [github.com/yourusername/voidc](https://github.com/FSOCIETYTTKil1l)
+GitHub: https://github.com/FSOCIETYTTKil1l/voidc-extension
 Discord: [Join our community](https://discord.gg/mhTyRphd)
 Email: VoiidC@proton.me
 Discord: @kil1l
@@ -246,6 +246,7 @@ Made with ❤️ by the VoidC~ Team
 
 
 <img width="475" height="525" alt="no_bg_c~" src="https://github.com/user-attachments/assets/89b17567-803a-48cc-873d-5add5ee91a45" />
+
 
 
 
