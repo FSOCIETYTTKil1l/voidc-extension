@@ -164,7 +164,7 @@ More examples in the examples/ folder!
 
 🛠️ Building from Source
 bash# Clone repository
-git clone [https://github.com/FSOCIETYTTKil1l/voidc-extension.git]
+git clone https://github.com/FSOCIETYTTKil1l/voidc-extension.git
 cd voidc
 
 # Build compiler
@@ -231,7 +231,7 @@ Special thanks to all contributors
 
 📞 Contact & Community
 
-GitHub: github.com/yourusername/voidc
+GitHub: [github.com/yourusername/voidc](https://github.com/FSOCIETYTTKil1l)
 Discord: [Join our community](https://discord.gg/mhTyRphd)
 Email: voidc@example.com
 Discord: @kil1l
@@ -239,5 +239,6 @@ Discord: @kil1l
 
 Made with ❤️ by the VoidC~ Team
 ⭐ Star us on GitHub if you like VoidC~!
+
 
 
