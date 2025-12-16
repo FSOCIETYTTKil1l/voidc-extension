@@ -1,12 +1,7 @@
-VoidC~ Programming Language
-<div align="center">
+# VoidC~ Programming Language
 Bild anzeigen
 A simple, elegant programming language inspired by C/C++
-Bild anzeigen
-Bild anzeigen
-Bild anzeigen
 Features • Installation • Quick Start • Documentation • Examples
-</div>
 
 🌟 What is VoidC~?
 VoidC~ (pronounced "Void-C-Wave") is a modern programming language designed to be simpler than C++ but just as powerful. It combines familiar C-style syntax with modern conveniences, making it perfect for beginners and experienced programmers alike.
